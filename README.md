@@ -1,4 +1,4 @@
-[![MasterHead](https://static.smc.eu/binaries/content/gallery/smc_global/test/8a47f769c400b0b7d81a8f6f8e09a44a.gif)]
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif)]
 <h1 align="center">Hi 👋, I'm Hritik Pradhan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761187ba3c8b61b199a7d77f538287447c00897b1467&rid=giphy.gif&ct=g">

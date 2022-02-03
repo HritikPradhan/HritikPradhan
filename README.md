@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761187ba3c8b61b199a7d77f538287447c00897b1467&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="hritikpradhan" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif" alt="hritikpradhan" /> </p>
 
 - 💬 Ask me about **JavaScript,Node Js,MongoDb,PostMan**
 

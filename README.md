@@ -1,3 +1,4 @@
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)]
 <h1 align="center">Hi 👋, I'm Hritik Pradhan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">

@@ -1,9 +1,9 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif)]
 <h1 align="center">Hi 👋, I'm Hritik Pradhan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif">
 
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif" alt="hritikpradhan" /> </p>
 
 - 💬 Ask me about **JavaScript,Node Js,MongoDb,PostMan**
 
